@@ -1,8 +1,9 @@
+
 # ACPCE-LaTeX-Template
 LaTeX Template of A. C. Patil College of Engineering for developing project reports, thesis, journal papers, etc.
 
 > Currently only supports project reports.
-> Further, options for researc papers and thesis will be added.
+> Further, options for `research_papers`, `thesis`, etc. will be added.
 
 ## File / Folder Usage
 | ***Name*** | ***Type*** | ***Use*** |
