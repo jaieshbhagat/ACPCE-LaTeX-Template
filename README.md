@@ -5,6 +5,8 @@ LaTeX Template of A. C. Patil College of Engineering for developing project repo
 > Currently only supports project reports.
 > Further, options for `research_papers`, `thesis`, etc. will be added.
 
+> Supports pdfLaTex, [overleaf](https://www.overleaf.com/)
+
 ## File / Folder Usage
 | ***Name*** | ***Type*** | ***Use*** |
 |--|--|--|
