@@ -61,7 +61,8 @@ main.tex is the main file which can be used to add/edit or remove components fro
 > For behaviour of code and example, refer below code or go through `main.tex`
 
 ### Sample Code Functioning
-`\begin{document} % Document Scope Begins
+```
+\begin{document} % Document Scope Begins
 
 \maketitle %Makes Title / Cover Page of document
 
@@ -101,4 +102,4 @@ This report specifies the various processes and techniques used in gathering req
 \makeacknowledgement % Adds Acknowledgement page to document
 
 \end{document} % Document Scope Ends
-`
+```
