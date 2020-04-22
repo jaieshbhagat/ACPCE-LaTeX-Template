@@ -33,7 +33,7 @@ main.tex is the main file which can be used to add/edit or remove components fro
 | `\degree{[String]}` | **Yes** | Sets degree in document. | `\degree{Bachelor of Engineering}` | `report` |
 | `\degreespecialization{[String]}` | **Yes** | Sets specialization or branch in document. | `\degreespecialization{Computer Engineering}` | `report` |
 | `\department{[String]}` | **Yes** | Sets department in document. | `\department{Department of Computer Engineering}` | `report` |
-| `\academicyear{[Integer|start_year]}{[Integer|end_year]}` | **Yes** | Sets academic year in document. | `\academicyear{2019}{2020}` | `report` |
+| `\academicyear{[Integer\|start_year]}{[Integer|end_year]}` | **Yes** | Sets academic year in document. | `\academicyear{2019}{2020}` | `report` |
 | `\hod{String}` | **Yes** | Sets hod's name in `certificate`. | `\hod{Prof. R. C. Suryawanshi}` | `report` |
 | `\principal{String}` | **Yes** | Sets principal name in `certificate`. | `\principal{Dr. V. N. Pawar}` | `report` |
 | `\guide{String}`| **Yes** | Sets guide's name throughout document. |`\guide{Dr. M. M. Despande}` | `report` |
