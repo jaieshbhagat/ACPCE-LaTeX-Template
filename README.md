@@ -75,7 +75,14 @@ To my college...
 \makedeclaration %Adds Declaration Page to document
 
 \begin{abstract} %Adds Abstract Page to document
-This report specifies the various processes and techniques used in gathering requirements, designing, implementing and testing for the<br>project on 'ACPCE Transactional System Using OAuth 2.0'. Existing problems with current system in the institute was analysed and<br>noted. This project aims to solve some of the problems by creating a core software, development platforms for future works and to<br>set up necessary infrastructure for maintaining transactional data for the institute, thus, adding more value to the current<br>system. The requirements were gathered from various institute departments and stakeholders, based on which, requirement was<br>modelled. A web application, using Java, MySQL and frameworks like Spring, Hibernate, Apache, etc, was designed to fulfil the<br>modelled requirements. Features of the system includes, but are not limited to, Admissions, Student and Staff Dashboard,<br>Examinations, Results, WebAdmin, ACPCE SSO and Attendance.
+This report specifies the various processes and techniques used in gathering requirements, designing, implementing and testing for the
+project on 'ACPCE Transactional System Using OAuth 2.0'. Existing problems with current system in the institute was analysed and
+noted. This project aims to solve some of the problems by creating a core software, development platforms for future works and to
+set up necessary infrastructure for maintaining transactional data for the institute, thus, adding more value to the current
+system. The requirements were gathered from various institute departments and stakeholders, based on which, requirement was
+modelled. A web application, using Java, MySQL and frameworks like Spring, Hibernate, Apache, etc, was designed to fulfil the
+modelled requirements. Features of the system includes, but are not limited to, Admissions, Student and Staff Dashboard,
+Examinations, Results, WebAdmin, ACPCE SSO and Attendance.
 \end{abstract}
 
 \tableofcontents %Adds Table of Contents Page to document
